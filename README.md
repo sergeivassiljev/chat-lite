@@ -1,2 +1,2 @@
-Chat on socket.io
+Chat: 
 ReactJS + NodeJS + Socket.IO
